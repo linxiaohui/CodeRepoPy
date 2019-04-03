@@ -1,0 +1,10 @@
+Pillow
+PuLP
+pyfiglet
+termcolor
+zerorpc
+opencv-python
+twisted
+requests
+moviepy
+dlib
