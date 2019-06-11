@@ -220,5 +220,4 @@ for ins in institution_to_sync:
         DB_CONN.commit()
         time.sleep(int(3*random.random()+1))
     DB_CURSOR.execute(f"UPDATE institutions SET sync_status=2 WHERE aoi_id={aoi_id}")
-    
-    break
+    time.sleep(int(30*random.random()+1))
