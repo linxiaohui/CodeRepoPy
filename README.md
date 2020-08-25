@@ -26,10 +26,14 @@ Python资料库
    * 代理相关技术工具
    * HTTP HTTPS TCP代理
    * DNS代理
+   * 反向代理
 
 ## RPC
    * XML-RPC的服务端和客户端示例
    * zerorpc的服务端和客户端示例
+
+## Server
+   * ipv6下的HTTP服务
 
 ## Sudoku
    * 图片识别数独, 并使用PuLP解数独
